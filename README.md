@@ -3,6 +3,7 @@
 # REGISTER NUMBER: 212224230012
 # DEPARTMENT: AI&DS
 # YEAR: ||
+## DATE: 27/02/26 
 ## Aim:
 To understand and implement various arithmetic and logical operations in Programmable Logic Controller (PLC) ladder logic.
 
@@ -113,7 +114,7 @@ Test the arithmetic and logical operations with physical push buttons and observ
 
 <img width="1919" height="1079" alt="553865826-5a903c71-d90f-448b-9caa-e97dc6c02a14" src="https://github.com/user-attachments/assets/52228e5b-0b17-4e55-992d-8f71621dc3cd" />
 
-## INCREMENT:
+## DECREMENT:
 
 <img width="1919" height="1079" alt="553866164-e8c897bb-c342-47ac-b656-b69fb961971f" src="https://github.com/user-attachments/assets/ac7f3e42-ff05-4810-a655-a90e6507d13f" />
 
